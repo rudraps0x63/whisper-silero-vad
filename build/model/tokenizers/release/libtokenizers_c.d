@@ -1,0 +1,1 @@
+/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/build/model/tokenizers/release/libtokenizers_c.a: /home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tokenizers-cpp/rust/src/lib.rs

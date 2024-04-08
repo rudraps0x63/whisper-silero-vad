@@ -1,0 +1,77 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/builtin_fp16.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/builtin_fp16.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/builtin_fp16.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/c_runtime_api.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/c_runtime_api.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/c_runtime_api.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/const_loader_module.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/const_loader_module.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/const_loader_module.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/container.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/container.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/container.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/contrib/random/random.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/contrib/random/random.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/contrib/random/random.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/contrib/sort/sort.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/contrib/sort/sort.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/contrib/sort/sort.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/cpu_device_api.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/cpu_device_api.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/cpu_device_api.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/debug.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/debug.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/debug.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/bcast_session.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/bcast_session.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/bcast_session.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/builtin.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/builtin.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/builtin.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/disco_worker.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/disco_worker.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/disco_worker.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/loader.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/loader.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/loader.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/process_session.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/process_session.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/process_session.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/session.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/session.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/session.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/disco/threaded_session.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/threaded_session.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/disco/threaded_session.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/dso_library.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/dso_library.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/dso_library.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/file_utils.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/file_utils.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/file_utils.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/library_module.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/library_module.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/library_module.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/logging.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/logging.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/logging.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/memory/memory_manager.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/memory/memory_manager.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/memory/memory_manager.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/metadata.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/metadata.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/metadata.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/minrpc/minrpc_logger.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/minrpc/minrpc_logger.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/minrpc/minrpc_logger.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/module.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/module.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/module.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/name_transforms.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/name_transforms.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/name_transforms.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/ndarray.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/ndarray.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/ndarray.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/nvtx.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/nvtx.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/nvtx.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/object.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/object.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/object.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/packed_func.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/packed_func.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/packed_func.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/profiling.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/profiling.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/profiling.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/registry.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/registry.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/registry.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/builtin.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/builtin.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/builtin.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/bytecode.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/bytecode.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/bytecode.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/executable.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/executable.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/executable.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/lm_support.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/lm_support.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/lm_support.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/ndarray_cache_support.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/ndarray_cache_support.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/ndarray_cache_support.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/paged_kv_cache.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/paged_kv_cache.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/paged_kv_cache.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/relax_vm/vm.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/vm.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/relax_vm/vm.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/source_utils.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/source_utils.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/source_utils.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/static_library.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/static_library.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/static_library.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/system_library.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/system_library.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/system_library.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/thread_pool.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/thread_pool.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/thread_pool.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/threading_backend.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/threading_backend.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/threading_backend.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vm/bytecode.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/bytecode.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/bytecode.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vm/executable.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/executable.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/executable.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vm/vm.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/vm.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vm/vm.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_amdrgp.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_amdrgp.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_amdrgp.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_buffer.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_buffer.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_buffer.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_common.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_common.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_common.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_device.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_device.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_device.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_device_api.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_device_api.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_device_api.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_instance.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_instance.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_instance.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_module.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_module.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_module.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_stream.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_stream.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_stream.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/vulkan/vulkan_wrapped_func.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_wrapped_func.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/vulkan/vulkan_wrapped_func.cc.o.d"
+  "/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/model/3rdparty/tvm/src/runtime/workspace_pool.cc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/workspace_pool.cc.o" "gcc" "model/tvm/CMakeFiles/tvm_runtime_objs.dir/src/runtime/workspace_pool.cc.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

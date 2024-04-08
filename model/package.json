@@ -1,0 +1,16 @@
+{
+  "name": "transcription-model",
+  "version": "1.0.0",
+  "description": "[discord-url]: https://discord.gg/9Xpy2HGBuD",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

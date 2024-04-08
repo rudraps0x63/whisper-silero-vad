@@ -1,0 +1,11 @@
+/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/build/model/tokenizers/release/deps/libcc-a7beae67364f2f34.rmeta: /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/build/model/tokenizers/release/deps/libcc-a7beae67364f2f34.rlib: /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/build/model/tokenizers/release/deps/cc-a7beae67364f2f34.d: /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs:
+/home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs:
+/home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs:
+/home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs:
+/home/rudra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs:

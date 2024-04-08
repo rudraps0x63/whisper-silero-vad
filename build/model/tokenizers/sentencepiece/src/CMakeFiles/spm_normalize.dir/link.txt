@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -Wall -fPIC -std=c++17 -D_GLIBCXX_USE_CXX11_ABI=0 -fpermissive -fPIC -std=c++17 -fmacro-prefix-map=/home/rudra/dev/work/PearTree/AI/whisper-plus-drwav-2/='' -O2 -g -DNDEBUG -rdynamic CMakeFiles/spm_normalize.dir/spm_normalize_main.cc.o -o spm_normalize  libsentencepiece.a libsentencepiece_train.a libsentencepiece.a 
